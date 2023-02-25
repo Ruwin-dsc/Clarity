@@ -65,6 +65,9 @@ BSD-2
 **Free Open Source Software, Hell Yeah!**
 Don't forget to add a star ❤
 
+#### French and English speaking support server (discord):
+https://discord.gg/S2waGJPhyF
+
 # _Creators_ :
 * Sραrrσωhαωκ#0001 
 * Tsubasa#1223
