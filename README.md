@@ -66,7 +66,7 @@ BSD-2
 Don't forget to add a star ❤
 
 #### French and English speaking support server (discord):
-https://discord.gg/S2waGJPhyF
+https://discord.gg/CbFgyyS8YD
 
 # _Creators_ :
 * Sραrrσωhαωκ#0001 
